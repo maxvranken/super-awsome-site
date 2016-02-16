@@ -1,4 +1,4 @@
-# Webtech 2: notes
+﻿# Webtech 2: notes edidited
 
 These are extra notes, links and references used to supplement a course I teach at Interactive Multimedia Design (http://www.weareimd.be) at Thomas More university college Mechelen.
 
